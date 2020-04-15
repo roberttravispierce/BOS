@@ -2,7 +2,7 @@
 
 ## Eating
 
-### 1. Eat only live, whole foods
+### 1. Eat mostly raw, whole, live foods
 
 ### 2. Eat your water—drink your food
 I chew each bite of food 40+ times—liquefying it.
