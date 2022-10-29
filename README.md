@@ -2,3 +2,5 @@
 The systems, standards and practices by which I live my life—personal and professional.
 
 [Health Systems](health.md)
+
+[Coding - Committing Changes to Git Repositories](coding/commits.md)
